@@ -2,7 +2,7 @@
   "name": "antoss-golden-emerald-theme",
   "displayName": "Antoss Golden Emerald Theme",
   "description": "A high contrast dark theme that uses emerald and gold, along with some neon-like colors.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.100.0"
   },
